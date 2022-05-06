@@ -1,3 +1,4 @@
 -installing apache
 -creating httpd.conf from template
+-creating site
 -restarting apache
